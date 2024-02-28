@@ -3,6 +3,9 @@ char str[50],pat[50],rep[50],ans[50];
 int i,j,k,c,m,flag=0;
 void stringmatch()
 {
+	
+	
+	
 	while(str[c]!='\0')
 	{
 		if(str[m]==pat[i])
