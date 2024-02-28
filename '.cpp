@@ -41,6 +41,7 @@ int main()
 	if(flag==1)
 	printf("the final patter is\n%s",ans);
 	else
-	printf("pattern not found");
+
     return 0;
+    
 }
